@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>Tabel</title>
+</head>
+<body>
+    <link rel="stylesheet" href="style.css">
+    <table border="1">
+     <tr> 
+        <td>Hari </td>
+        <td>Upacara </td>
+        <td> Doa / sholat  </td>
+        <td> 1</td>
+        <td> 2</td>
+        <td> 3</td>
+        <td> Istirahat</td>
+        <td> 4</td>
+        <td> 5</td>
+        <td> Dhuhur</td>
+        <td> 6</td>
+        <td> 7</td>
+        <td> 8</td>
+     </tr> 
+
+     <tr> 
+        <td>Senin </td>
+        <td>06.30-07.15</td>
+        <td>07.15-07.45 </td>
+        <td>07.45-08.30</td>
+        <td>08.30-09.15</td>
+        <td>09.15-10.00</td>
+        <td>10.00-10.30</td>
+        <td>10.30-11.15</td>
+        <td>11.15-12.00</td>
+        <td>12.00-13.00</td>
+        <td>13.00-13.45</td>
+        <td>13.45-14.30</td>
+        <td>14.30-15.15</td>
+     </tr>
+
+     <tr>
+        <td> </td> 
+        <td>  </td>
+        <td>Sholat</td>
+        <td>Tahfidz</td>
+        <td> PKN </td>
+        <td> PKN</td>
+        <td>Istirahat</td>
+        <td>B. Indo</td>
+        <td>B. Indo</td>
+        <td>Sholat</td>
+        <td>BK</td>
+        <td>RPL</td>
+        <td>RPL</td>
+    </tr>
+
+     <tr> 
+        <td> </td>
+        <td> Doa / Dhuha </td>
+        <td>07.00-07.45</td>
+        <td>07.45-08.30</td>
+        <td>08.30-09.15</td>
+        <td>09.15-10.00</td>
+        <td>10.00-10.30</td>
+        <td>10.30-11.55</td>
+        <td>11.55-12.00</td>
+        <td>12.00-13.00</td>
+        <td>13.00-13.45</td>
+        <td>13.45-14.30</td>
+        <td>14.30-15.15</td>
+     </tr>
+
+     <tr> 
+        <td>Selasa </td>
+        <td> Doa / Dhuha 06.30-07.00</td>
+        <td>Tahfidz</td>
+        <td>UI/UX</td>
+        <td>UI/UX </td>
+        <td>Informatika</td>
+        <td> </td>
+        <td>Informatika</td>
+        <td>Matematika</td>
+        <td> </td>
+        <td>Matematika</td>
+        <td>Matematika</td>
+        <td>IPAS</td>
+     </tr>
+
+     <tr>
+        <td>Rabu </td>
+        <td> Doa / Dhuha </td>
+        <td>Tahfidz</td>
+        <td>RPL</td>
+        <td>RPL </td>
+        <td>IPAS</td>
+        <td> </td>
+        <td>RPL</td>
+        <td>Sen Bud</td>
+        <td> </td>
+        <td>Sen Bud</td>
+        <td>RPL</td>
+        <td>RPL</td> 
+    </tr>
+
+     <tr>
+        <td>Kamis </td>
+        <td> Doa / Dhuha 06.30-07.00</td>
+        <td>Tahfidz</td>
+        <td>Pjok</td>
+        <td>Pjok </td>
+        <td>Sejarah</td>
+        <td> </td>
+        <td>Sejarah</td>
+        <td>Bahasa Jawa</td>
+        <td> </td>
+        <td>Bahasa Jawa</td>
+        <td>RPL</td>
+        <td>RPL</td>
+         </tr>
+
+     <tr> 
+        <td>Jumat</td>
+        <td> Giat Pagi 06.30-07.00</td>
+        <td>Istirahat 07.15-07.30</td>
+        <td>Doa / Dhuha 07.30-08.00</td>
+        <td>08.00-08.45 </td>
+        <td>08.45-09.30</td>
+        <td>09. 30- 10.15 </td>
+        <td>10.15-11.00</td>
+        <td>11.00-12.30</td>
+        <td>12.30-13.15</td>
+        <td>13.15-14.00</td>
+        <td>14.00-14.45</td>
+        <td>14.45-15.30</td>
+     </tr>
+     <td></td>
+     <td>  </td>
+     <td></td>
+     <td></td>
+     <td>IPAS </td>
+     <td>IPAS</td>
+     <td>Bahasa Inggris </td>
+     <td>Bahasa Inggris</td>
+     <td> </td>
+     <td>PAI</td>
+     <td>PAI</td>
+     <td>Bahasa Inggris</td>
+     <td>Bahasa Indonesia</td>
+     <td></td>
+     <tr>
+       
+     </tr>
+    </table>
+</body>
+</html>
